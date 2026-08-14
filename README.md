@@ -57,3 +57,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohansingh13&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohansingh13/rohansingh13/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohansingh13/rohansingh13/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rohansingh13/rohansingh13/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <!-- generated with https://github.com/Platane/snk -->
+</p>
